@@ -1,6 +1,6 @@
 # greenscreen
 
-<p align="center"><a href="https://yoosefap.github.io/greenscreen/" target="_blank" rel="noopener noreferrer">demo</a></p>
+<p><a href="https://yoosefap.github.io/greenscreen/" target="_blank" rel="noopener noreferrer">demo</a></p>
 
 Remove certain colors from video and render realtime
 
