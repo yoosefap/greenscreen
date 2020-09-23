@@ -1,3 +1,3 @@
 # greenscreen
 
-![Image](../blob/master/demo.gif?raw=true)
+![alt text](../master/demo.gif?raw=true)
