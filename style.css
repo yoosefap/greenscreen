@@ -1,0 +1,44 @@
+body {
+    background: black;
+    color: #CCCCCC;
+}
+
+#show {
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+}
+
+#redOperator, #red {
+    background: #c43636;
+    color: #fff;
+}
+
+#blueOperator, #blue {
+    background: #363fec;
+    color: #fff;
+}
+
+#greenOperator, #green {
+    background: #117f21;
+    color: #fff;
+}
+
+div {
+    float: left;
+    border: 1px solid #444444;
+    padding: 10px;
+    margin: 10px;
+    background: #3B3B3B;
+}
+
+div input {
+    width: 80px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+div select {
+    width: 60px;
+    padding: 10px;
+}

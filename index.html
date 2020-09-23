@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Video</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div>
+    <video loop width="300" id="video" controls="true">
+      <source src="test.mp4" type="video/mp4">
+      </video>
+</div>
+<div>
+    <span style="color: aliceblue;">@yoosefap</span><br><br>
+    <select id="redOperator">
+        <option value=">">R></option>
+        <option value="<" selected>R<</option>
+    </select>
+    <input id="red" type="number" value="100">
+    <br/>
+    <select id="greenOperator">
+        <option value=">" selected>G></option>
+        <option value="<">G<</option>
+    </select>
+    <input id="green" type="number" value="120">
+    <br/>
+    <select id="blueOperator">
+        <option value=">" selected>B></option>
+        <option value="<">B<</option>
+    </select>
+    <input id="blue" type="number" value="20">
+</div>
+<div>
+    <canvas id="show" width="300"></canvas>
+</div>
+<script type="text/javascript" src="main.js"></script>
+</body>
+</html>
